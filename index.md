@@ -8,7 +8,9 @@ This project was intially started by and currently maintained by Eshanepicfighte
 
 
 # Most recent photos (8/1/2021)
+
 Below are the most recent photos taken by Eshanepicfighter and other people who have made a pull request
+
 <img width="477" alt="A hidden cove" src="https://user-images.githubusercontent.com/79593316/127756718-008cdf7e-42d5-447f-9178-cef608d3860b.PNG">
 "A hidden cove" (Taken by Eshanepicfighter)
 
