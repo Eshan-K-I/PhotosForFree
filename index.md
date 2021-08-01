@@ -1,6 +1,6 @@
 # Welcome to PhotosForFree
 
-Here you can easily and freely copy and paste high quality stock photos, free of charge (If redistributed please give credit where its due and don't try and sell it on a 3rd party.)
+Here you can easily and freely use these high quality stock images for any use, fully licensed against the GNU GPL v3.0 license.
 
 # About this project
 
@@ -8,6 +8,6 @@ This project was intially started by Esh (github.com/Eshanepicfighter) and is cu
 
 
 
-# Most recent photos
+# Most recent photos (8/1/2021)
 Below are the most recent photos taken by Esh and other people who have made a pull request
 
