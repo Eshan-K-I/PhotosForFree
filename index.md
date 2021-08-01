@@ -1,10 +1,9 @@
+***
 # Welcome to PhotosForFree
 
 Here you can easily and freely use these high quality stock images for any use, fully licensed against the GNU GPL v3.0 license. 
 
-# About this project
-
-This project was intially started by and currently maintained by <a href="https://github.com/Eshanepicfighter.html" title="Github Page">Eshanepicfighter</a>. (If you wish to contribute, click <a href="https://github.com/Eshanepicfighter.html" title="Contribute">here</a>)
+# (./About this project.md)
 
 
 # Most recent photos (8/1/2021)
