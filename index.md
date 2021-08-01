@@ -13,3 +13,6 @@ This project was intially started by and currently maintained by Eshanepicfighte
 # Most recent photos (8/1/2021)
 Below are the most recent photos taken by Eshanepicfighter and other people who have made a pull request
 
+
+# So you scroll down to look for older photos and don't find them
+Don't worry! An archive of all photos is located at https://eshanepicfighter.github.io/PhotosForFreeArchive/
