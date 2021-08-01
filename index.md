@@ -9,7 +9,16 @@ This project was intially started by and currently maintained by <a href="https:
 
 # Most recent photos (8/1/2021)
 
+
 Below are the most recent photos taken by Eshanepicfighter and other people who have made a pull request
+
+![One magnificent view](https://user-images.githubusercontent.com/79593316/127779597-86eb1f90-78b2-48dd-92a3-a8602042221f.png)
+
+"One magnificent view" (Taken by Andrew) (2 megabytes)
+
+![A summer blossom](https://user-images.githubusercontent.com/79593316/127779540-70166c3f-7acc-4ea0-b69f-6ae119ee2235.png)
+
+"A summer blossom" (Taken by Andrew) (2.7 megabytes)
 
 <img width="477" alt="A hidden cove" src="https://user-images.githubusercontent.com/79593316/127756718-008cdf7e-42d5-447f-9178-cef608d3860b.PNG">
 
