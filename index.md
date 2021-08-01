@@ -4,7 +4,7 @@ Here you can easily and freely use these high quality stock images for any use, 
 
 # About this project
 
-This project was intially started by and currently maintained by Eshanepicfighter <a href="https://github.com/Eshanepicfighter.html" title="Github Page">(Github Page)</a>). (If you wish to contribute, open a pull request on https://www.github.com/Eshanepicfighter/PhotosForFree)
+This project was intially started by and currently maintained by Eshanepicfighter <a href="https://github.com/Eshanepicfighter.html" title="Github Page">(Github Page</a>). (If you wish to contribute, open a pull request on https://www.github.com/Eshanepicfighter/PhotosForFree)
 
 
 # Most recent photos (8/1/2021)
