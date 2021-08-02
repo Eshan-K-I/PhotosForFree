@@ -1,7 +1,6 @@
 ***
 
-<button style="transform: translateY(-50%); -ms-transform: translateY(-50%); top: 50%; margin: 0; position: absolute; padding-left: 50%;
-" onclick="window.location.href='https://eshanepicfighter.github.io/PhotosForFree/about';"> About </button>
+<button style="padding-left: 50%;" onclick="window.location.href='https://eshanepicfighter.github.io/PhotosForFree/about';"> About </button>
 <button style="text-align: center;" onclick="window.location.href='https://eshanepicfighter.github.io/PhotosForFree/latestphotos';"> Latest Photos </button>
 <button style="text-align: center;" onclick="window.location.href='https://eshanepicfighter.github.io/PhotosForFree/archive';"> Archive </button>
 
