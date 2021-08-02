@@ -1,6 +1,6 @@
 ***
 
-<button style="padding-left: 50%;" onclick="window.location.href='https://eshanepicfighter.github.io/PhotosForFree/about';"> About </button>
+<button style="padding-left: 30px; padding-right: 30px; " onclick="window.location.href='https://eshanepicfighter.github.io/PhotosForFree/about';"> About </button>
 <button style="text-align: center;" onclick="window.location.href='https://eshanepicfighter.github.io/PhotosForFree/latestphotos';"> Latest Photos </button>
 <button style="text-align: center;" onclick="window.location.href='https://eshanepicfighter.github.io/PhotosForFree/archive';"> Archive </button>
 
