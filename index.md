@@ -1,8 +1,8 @@
 ***
 
-<button style="display:block; margin:auto;" onclick="window.location.href='https://eshanepicfighter.github.io/PhotosForFree/about';"> About </button>
-<button onclick="window.location.href='https://eshanepicfighter.github.io/PhotosForFree/latestphotos';"> Latest Photos </button>
-<button onclick="window.location.href='https://eshanepicfighter.github.io/PhotosForFree/archive';"> Archive </button>
+<button onclick="window.location.href='https://eshanepicfighter.github.io/PhotosForFree/about';"> About </button>
+<button style="display:block; margin:auto;" onclick="window.location.href='https://eshanepicfighter.github.io/PhotosForFree/latestphotos';"> Latest Photos </button>
+<button style="position:fixed; left:75%; top:50%" onclick="window.location.href='https://eshanepicfighter.github.io/PhotosForFree/archive';"> Archive </button>
 
 ***
 # Welcome to PhotosForFree
