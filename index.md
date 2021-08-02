@@ -1,4 +1,5 @@
-<nav> [About Us](about.md)
+<nav> [About Us](about.md) <nav>
+
 ***
 # Welcome to PhotosForFree
 
