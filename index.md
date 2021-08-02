@@ -1,4 +1,3 @@
-<nav> [About Us](about.md) <nav>
 
 ***
 # Welcome to PhotosForFree
