@@ -1,25 +1,25 @@
 ***
 <div>
-<button style="background-color: #04AA6D; 
-  border: 1px solid green;
+<button style="background-color: #fafbfc; 
+  border: 1px solid grey;
   color: white; 
-  padding: 3px 80px; 
+  padding: 3px 100px; 
   cursor: pointer;
   float: left;
   border-radius: 5px;
   " onclick="window.location.href='https://eshanepicfighter.github.io/PhotosForFree/about';"> About </button>                                                                 
-<button style="background-color: #04AA6D;
+<button style="background-color: #fafbfc;
   border: 1px solid green;
   color: white;
-  padding: 3px 80px;
+  padding: 3px 100px;
   cursor: pointer;
   float: left;
   border-radius: 5px;   
   " onclick="window.location.href='https://eshanepicfighter.github.io/PhotosForFree/latestphotos';"> Latest Photos </button>                    
-<button style="background-color: #04AA6D;
+<button style="background-color: #fafbfc;
   border: 1px solid green;
   color: white;
-  padding: 3px 80px;
+  padding: 3px 100px;
   cursor: pointer;
   float: left;
   border-radius: 5px;   
