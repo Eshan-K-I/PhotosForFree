@@ -3,26 +3,26 @@
 <button style="background-color: #04AA6D; 
   border: 1px solid green;
   color: white; 
-  padding: 3px 30px; 
+  padding: 3px 50px; 
   cursor: pointer;
   float: left;
-  border-radius: 30px;
+  border-radius: 5px;
   " onclick="window.location.href='https://eshanepicfighter.github.io/PhotosForFree/about';"> About </button>                                                                 
 <button style="background-color: #04AA6D;
   border: 1px solid green;
   color: white;
-  padding: 3px 30px;
+  padding: 3px 50px;
   cursor: pointer;
   float: left;
-  border-radius: 30px;   
+  border-radius: 5px;   
   " onclick="window.location.href='https://eshanepicfighter.github.io/PhotosForFree/latestphotos';"> Latest Photos </button>                    
 <button style="background-color: #04AA6D;
   border: 1px solid green;
   color: white;
-  padding: 3px 30px;  
+  padding: 3px 50x;  
   cursor: pointer; 
   float: left; 
-  border-radius: 30px;    
+  border-radius: 5px;    
   " onclick="window.location.href='https://eshanepicfighter.github.io/PhotosForFree/archive';"> Archive </button>
 </div>
 &nbsp;
