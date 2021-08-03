@@ -1,10 +1,8 @@
 ***
 
 <button onclick="window.location.href='https://eshanepicfighter.github.io/PhotosForFree/about';"> About </button>
-<div align="center">
-<button onclick="window.location.href='https://eshanepicfighter.github.io/PhotosForFree/latestphotos';"> Latest Photos </button>
-</div>
-<div align="right">
+<div align="center"><button onclick="window.location.href='https://eshanepicfighter.github.io/PhotosForFree/latestphotos';"> Latest Photos </button>
+</div><div align="right">
 <button onclick="window.location.href='https://eshanepicfighter.github.io/PhotosForFree/archive';"> Archive </button>
 </div>
 
