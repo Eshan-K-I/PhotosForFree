@@ -8,7 +8,7 @@
   float: left;
   border-radius: 5px;
   " onclick="window.location.href='https://eshanepicfighter.github.io/PhotosForFree/about';"> About </button>                                                                 
-<button style="background-color: #c6cbd1;
+<button style="background-color: #a7abb0;
   border: 1px solid white;
   color: white;
   padding: 3px 100px;
