@@ -19,10 +19,10 @@
 <button style="background-color: #04AA6D;
   border: 1px solid green;
   color: white;
-  padding: 3px 120x;  
-  cursor: pointer; 
-  float: left; 
-  border-radius: 5px;    
+  padding: 3px 100px;
+  cursor: pointer;
+  float: left;
+  border-radius: 5px;   
   " onclick="window.location.href='https://eshanepicfighter.github.io/PhotosForFree/archive';"> Archive </button>
 </div>
 &nbsp;
