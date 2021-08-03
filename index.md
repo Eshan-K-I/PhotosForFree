@@ -35,7 +35,9 @@
   float: left; /* Float the 
   buttons side by side */" onclick="window.location.href='https://eshanepicfighter.github.io/PhotosForFree/archive';"> Archive </button>
 </div>
-  
+&nbsp;
+
+
 ***
 # Welcome to PhotosForFree
 
