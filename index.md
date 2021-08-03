@@ -11,7 +11,7 @@
 <button style="background-color: #04AA6D;
   border: 1px solid green;
   color: white;
-  padding: 3px 120px;
+  padding: 3px 100px;
   cursor: pointer;
   float: left;
   border-radius: 5px;   
