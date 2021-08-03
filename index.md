@@ -1,5 +1,5 @@
 ***
-
+&nbsp;
 <div>
 <button style="background-color: #04AA6D; /* Green 
   background */
@@ -36,7 +36,7 @@
   buttons side by side */" onclick="window.location.href='https://eshanepicfighter.github.io/PhotosForFree/archive';"> Archive </button>
 </div>
 &nbsp;
-
+&nbsp;
 
 ***
 # Welcome to PhotosForFree
