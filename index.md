@@ -3,7 +3,7 @@
 <button style="background-color: #04AA6D; 
   border: 1px solid green;
   color: white; 
-  padding: 3px 50px; 
+  padding: 3px 120px; 
   cursor: pointer;
   float: left;
   border-radius: 5px;
@@ -11,7 +11,7 @@
 <button style="background-color: #04AA6D;
   border: 1px solid green;
   color: white;
-  padding: 3px 50px;
+  padding: 3px 120px;
   cursor: pointer;
   float: left;
   border-radius: 5px;   
@@ -19,7 +19,7 @@
 <button style="background-color: #04AA6D;
   border: 1px solid green;
   color: white;
-  padding: 3px 50x;  
+  padding: 3px 120x;  
   cursor: pointer; 
   float: left; 
   border-radius: 5px;    
