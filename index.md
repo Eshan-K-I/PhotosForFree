@@ -1,42 +1,32 @@
 ***
-&nbsp;
 <div>
+<button style="background-color: #04AA6D; 
+  border: 1px solid green;
+  color: white; 
+  padding: 3px 30px; 
+  cursor: pointer;
+  float: left;
+  border-radius: 30px;
+  " onclick="window.location.href='https://eshanepicfighter.github.io/PhotosForFree/about';"> About </button>                                                                 
 <button style="background-color: #04AA6D; /* Green 
-  background */
-  border: 1px solid green; /* Green border 
-  */
-  color: white; /* White text */
-  padding: 3px 
-  30px; /* Some padding */
-  cursor: pointer; /* 
-  Pointer/hand icon */
-  float: left; /* Float the 
-  buttons side by side */" onclick="window.location.href='https://eshanepicfighter.github.io/PhotosForFree/about';"> About </button>                                                                 
+  background 
+  border: 1px solid green;
+  color: white;
+  padding: 3px 30px;
+  cursor: pointer;
+  float: left;
+  border-radius: 30px;   
+  " onclick="window.location.href='https://eshanepicfighter.github.io/PhotosForFree/latestphotos';"> Latest Photos </button>                    
 <button style="background-color: #04AA6D; /* Green 
-  background */
-  border: 1px solid green; /* Green border 
-  */
-  color: white; /* White text */
-  padding: 3px 
-  30px; /* Some padding */
-  cursor: pointer; /* 
-  Pointer/hand icon */
-  float: left; /* Float the 
-  buttons side by side */" onclick="window.location.href='https://eshanepicfighter.github.io/PhotosForFree/latestphotos';"> Latest Photos </button>                    
-<button style="background-color: #04AA6D; /* Green 
-  background */
-  border: 1px solid green; /* Green border 
-  */
-  color: white; /* White text */
-  padding: 3px 
-  30px; /* Some padding */
-  cursor: pointer; /* 
-  Pointer/hand icon */
-  float: left; /* Float the 
-  buttons side by side */" onclick="window.location.href='https://eshanepicfighter.github.io/PhotosForFree/archive';"> Archive </button>
+  background
+  border: 1px solid green;
+  color: white;
+  padding: 3px 30px;  
+  cursor: pointer; 
+  float: left; 
+  border-radius: 30px;    
+  " onclick="window.location.href='https://eshanepicfighter.github.io/PhotosForFree/archive';"> Archive </button>
 </div>
-&nbsp;
-&nbsp;
 
 ***
 # Welcome to PhotosForFree
