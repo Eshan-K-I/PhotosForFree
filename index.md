@@ -6,7 +6,7 @@
   border: 1px solid green; /* Green border 
   */
   color: white; /* White text */
-  padding: 10px 
+  padding: 3px 
   30px; /* Some padding */
   cursor: pointer; /* 
   Pointer/hand icon */
@@ -17,7 +17,7 @@
   border: 1px solid green; /* Green border 
   */
   color: white; /* White text */
-  padding: 10px 
+  padding: 3px 
   30px; /* Some padding */
   cursor: pointer; /* 
   Pointer/hand icon */
@@ -28,7 +28,7 @@
   border: 1px solid green; /* Green border 
   */
   color: white; /* White text */
-  padding: 10px 
+  padding: 3px 
   30px; /* Some padding */
   cursor: pointer; /* 
   Pointer/hand icon */
