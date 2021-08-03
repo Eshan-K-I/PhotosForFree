@@ -18,7 +18,7 @@
   */
   color: white; /* White text */
   padding: 10px 
-  24px; /* Some padding */
+  30px; /* Some padding */
   cursor: pointer; /* 
   Pointer/hand icon */
   float: left; /* Float the 
