@@ -1,6 +1,6 @@
 ***
 <div>
-<button style="background-color: #fafbfc; 
+<button style="background-color: #c6cbd1; 
   border: 1px solid grey;
   color: white; 
   padding: 3px 100px; 
@@ -8,16 +8,16 @@
   float: left;
   border-radius: 5px;
   " onclick="window.location.href='https://eshanepicfighter.github.io/PhotosForFree/about';"> About </button>                                                                 
-<button style="background-color: #fafbfc;
-  border: 1px solid green;
+<button style="background-color: #c6cbd1;
+  border: 1px solid grey;
   color: white;
   padding: 3px 100px;
   cursor: pointer;
   float: left;
   border-radius: 5px;   
   " onclick="window.location.href='https://eshanepicfighter.github.io/PhotosForFree/latestphotos';"> Latest Photos </button>                    
-<button style="background-color: #fafbfc;
-  border: 1px solid green;
+<button style="background-color: #c6cbd1;
+  border: 1px solid grey;
   color: white;
   padding: 3px 100px;
   cursor: pointer;
