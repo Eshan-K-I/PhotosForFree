@@ -19,4 +19,4 @@ Of course! You just need to license it under an open source license such as MIT 
 
 ### Hey, where is the source code?
 
-Don't wory, we aren't hiding it from you. Its located on the '''gh-pages''' branch of this repository
+Don't wory, we aren't hiding it from you. Its located on the gh-pages branch of this repository
