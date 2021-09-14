@@ -5,7 +5,7 @@ A collection of high quality, free photos. All licensed under the GNU GPL V3 Lic
 
 9/14/2021:
 
-Eshanepicfighter: Updated the README, added a few photos (Complete rewrite and redesign coming soon). Rewrite is a modified version of <a href="https://www.github.com/Eshanepicfighter/react-example-gallery">my gallery template</a>. If anybody has suggestions you can open an issue or pull request on both GitHub repos.
+Eshanepicfighter: Updated the README, added a few photos (Complete rewrite and redesign coming soon). Rewrite is a modified version of <a href="https://www.github.com/Eshanepicfighter/react-example-gallery">my gallery template</a>. If anybody has suggestions you can open an issue or pull request on both GitHub repos. I'm also planning on switching the images to be hosted locally/linked on the repository, so no more CDN for images, only 1 CDN delivering everything ya need.
 
 ## FAQ
 
